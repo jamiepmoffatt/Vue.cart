@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Bree+Serif');
+.font-main {
+  font-family: 'Bree Serif', serif;
+}
+.font-xxl {
+  font-size: 3.4rem;
+}
+.font-xl {
+  font-size: 2.4rem;
+}
+.font-lg {
+  font-size: 2rem;
+}
+.font-md {
+  font-size: 1.2rem;
+}
+.font-sm {
+  font-size: .8rem;
+}
+.color-white {
+  color: #fafafa;
+}
+.color-vue-blue {
+  color: #2c3e50;
+}
+.color-vue-green {
+  color: #42b983;
+}
